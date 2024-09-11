@@ -28,3 +28,6 @@ Binary 1111 -> 8,4,2,1 -> 0011 = 3, 0111 = 7, etc.
 Hexa 15 = letter F,
 1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,10,11
 dus 16 = 10, 17 =11, 18=12, etc 26=1A -> gelukkig rekenmachine om om te rekenen
+
+Byte sizes
+![alt text](image.png)
