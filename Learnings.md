@@ -30,4 +30,11 @@ Hexa 15 = letter F,
 dus 16 = 10, 17 =11, 18=12, etc 26=1A -> gelukkig rekenmachine om om te rekenen
 
 Byte sizes
-![alt text](image.png)
+![alt text](byteSize.png)
+
+
+Cheat engine find gold and edit it. but because in ram it changes everytime (random allocated memory). we can relocate this thanks to pointers
+![alt text](pointers.png)
+They are unidirectional so you can not find them from enemy but start from world 
+dll are also static
+
